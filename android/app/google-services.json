@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "867458230714",
+    "firebase_url": "https://flutter-playground-18ad5.firebaseio.com",
+    "project_id": "flutter-playground-18ad5",
+    "storage_bucket": "flutter-playground-18ad5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867458230714:android:29a5b0c0211f9937",
+        "android_client_info": {
+          "package_name": "com.iteo.flutter_playground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867458230714-omacof4fr8lp9b7kmqa1nji47o5ie63r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCYtsXLQ9CJ_7GZ-Gn5DthHe1lrmd0_13k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867458230714-omacof4fr8lp9b7kmqa1nji47o5ie63r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
